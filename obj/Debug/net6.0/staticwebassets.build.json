@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6ZCA8adoy+UnOZysL+jgIgZEZDWmJlFQbxcPE7ZMcJQ=",
+  "Source": "ReactCRUDWithAspDotNetCoreWebApi",
+  "BasePath": "_content/ReactCRUDWithAspDotNetCoreWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
